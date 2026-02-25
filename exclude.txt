@@ -32,3 +32,11 @@ Dockerfile-php-build
 output.log
 
 .npmrc
+
+#store
+/local-env
+.env.local
+compose--local.yml
+phpcs.xml
+restart_docker.sh
+
