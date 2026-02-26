@@ -39,4 +39,5 @@ output.log
 compose--local.yml
 phpcs.xml
 restart_docker.sh
+.vscode
 
